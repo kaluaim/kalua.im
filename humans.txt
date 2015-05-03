@@ -8,4 +8,4 @@
       	Last update:2015/05/03
       	Doctype:HTML5
         Components: jQuery, Bootstrap, Font Awesome
-      	IDE: atom.io, FileZilla, Photoshop
+      	IDE: Atom, FileZilla, Photoshop
