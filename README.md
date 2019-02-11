@@ -1,2 +1,2 @@
-## [kalua.im](http://kalua.im/) ##
-![Server](http://kalua.im/assets/images/logo-header.png)
+My old site. Not working anymore. You can check my new site
+[kalua.im](http://kalua.im/)
